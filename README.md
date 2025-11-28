@@ -47,7 +47,7 @@ Passionate about turning data into clear insights and professional dashboards.
 ---
 
 ## 📫 Connect With Me
-- *LinkedIn:* Add your LinkedIn URL here  
-- *GitHub:* You're already here 😊
+- *LinkedIn:*  www.linkedin.com/in/rana-fayez-69b975387
+
 
 ---
