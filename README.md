@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rana%20Fayez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20|%20ML%20Enthusiast%20|%20Insight%20Generator&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rana%20Fayez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20|%20AI%20Automation%20|%20Insight%20Generator&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <p align="center">
@@ -37,6 +37,7 @@ location: Egypt 🇪🇬
 
 - Ranked Master on Kaggle  
 - AI Engineer focused on Machine Learning, NLP, Deep Learning
+- AI Automation Engineer n8n | LLMs | AI Agents 
 - Strong background in Data Analysis, Visualization & Predictive Modeling  
 - Building AI automation systems using n8n workflows  
 - Artificial intelligence Student — Egyptian Russian University  
@@ -125,6 +126,7 @@ graph LR
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,stackoverflow,md" alt="Developer Tools" />
 </p>
+
 
 ---
 
