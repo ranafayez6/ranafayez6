@@ -124,7 +124,15 @@ graph LR
 
 ### 🧰 Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,stackoverflow,md" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,flutter,vscode,jupyter,stackoverflow,md" alt="Developer Tools" />
+</p>
+
+### Application Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-4CAF50?style=for-the-badge" alt="Platform">
 </p>
 
 
