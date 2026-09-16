@@ -151,8 +151,6 @@ graph LR
 ## 📊 GitHub Statistics
 
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranafayez6&show_icons=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9"/>
