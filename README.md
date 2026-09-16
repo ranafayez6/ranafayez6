@@ -150,21 +150,26 @@ graph LR
 
 ## 📊 GitHub Statistics
 
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<a href="https://github.com/ranafayez6">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ranafayez6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ranafayez6&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranafayez6&show_icons=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranafayez6&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
+
+</div>
 
 <br/>
+
+<div align="center">
 
 <a href="https://github.com/ranafayez6">
   <img src="https://streak-stats.demolab.com?user=ranafayez6&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak Stats"/>
 </a>
 
 </div>
-
 ---
 
 ## 📫 Let's Connect!
